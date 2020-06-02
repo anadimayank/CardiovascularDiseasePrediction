@@ -1,0 +1,578 @@
+2020-05-16/18:50:51		Start of Validation on files for prediction!!
+2020-05-23/09:43:43		Start of Validation on files for prediction!!
+2020-05-23/09:46:22		Start of Validation on files for prediction!!
+2020-05-23/09:46:57		Raw Data Validation Complete!!
+2020-05-23/09:46:59		Starting Data Transforamtion!!
+2020-05-23/09:47:01		DataTransformation Completed!!!
+2020-05-23/09:47:01		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/09:47:10		Table creation Completed!!
+2020-05-23/09:47:11		Insertion of Data into Table started!!!!
+2020-05-23/09:47:12		Insertion in Table completed!!!
+2020-05-23/09:47:13		Deleting Good Data Folder!!!
+2020-05-23/09:47:15		Good_Data folder deleted!!!
+2020-05-23/09:47:16		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/09:47:17		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/09:47:18		Validation Operation completed!!
+2020-05-23/09:47:18		Extracting csv file from table
+2020-05-23/09:54:15		Start of Validation on files for prediction!!
+2020-05-23/09:54:16		Raw Data Validation Complete!!
+2020-05-23/09:54:16		Starting Data Transforamtion!!
+2020-05-23/09:54:16		DataTransformation Completed!!!
+2020-05-23/09:54:16		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/09:54:18		Table creation Completed!!
+2020-05-23/09:54:18		Insertion of Data into Table started!!!!
+2020-05-23/09:54:18		Insertion in Table completed!!!
+2020-05-23/09:54:18		Deleting Good Data Folder!!!
+2020-05-23/09:54:18		Good_Data folder deleted!!!
+2020-05-23/09:54:18		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/09:54:18		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/09:54:18		Validation Operation completed!!
+2020-05-23/09:54:18		Extracting csv file from table
+2020-05-23/09:56:01		Start of Validation on files for prediction!!
+2020-05-23/09:56:01		Raw Data Validation Complete!!
+2020-05-23/09:56:01		Starting Data Transforamtion!!
+2020-05-23/09:56:01		DataTransformation Completed!!!
+2020-05-23/09:56:01		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/09:56:03		Table creation Completed!!
+2020-05-23/09:56:03		Insertion of Data into Table started!!!!
+2020-05-23/09:56:03		Insertion in Table completed!!!
+2020-05-23/09:56:03		Deleting Good Data Folder!!!
+2020-05-23/09:56:03		Good_Data folder deleted!!!
+2020-05-23/09:56:03		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/09:56:03		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/09:56:03		Validation Operation completed!!
+2020-05-23/09:56:03		Extracting csv file from table
+2020-05-23/10:06:14		Start of Prediction
+2020-05-23/10:06:30		Error occured while running the prediction!! Error:: __init__() missing 1 required positional argument: 'rootProjPath'
+2020-05-23/10:05:33		Start of Validation on files for prediction!!
+2020-05-23/10:05:33		Raw Data Validation Complete!!
+2020-05-23/10:05:33		Starting Data Transforamtion!!
+2020-05-23/10:05:33		DataTransformation Completed!!!
+2020-05-23/10:05:33		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/10:05:35		Table creation Completed!!
+2020-05-23/10:05:35		Insertion of Data into Table started!!!!
+2020-05-23/10:05:35		Insertion in Table completed!!!
+2020-05-23/10:05:35		Deleting Good Data Folder!!!
+2020-05-23/10:05:35		Good_Data folder deleted!!!
+2020-05-23/10:05:35		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/10:05:35		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/10:05:35		Validation Operation completed!!
+2020-05-23/10:05:35		Extracting csv file from table
+2020-05-23/10:25:01		Start of Validation on files for prediction!!
+2020-05-23/10:25:01		Raw Data Validation Complete!!
+2020-05-23/10:25:01		Starting Data Transforamtion!!
+2020-05-23/10:25:01		DataTransformation Completed!!!
+2020-05-23/10:25:01		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/10:25:04		Table creation Completed!!
+2020-05-23/10:25:04		Insertion of Data into Table started!!!!
+2020-05-23/10:25:04		Insertion in Table completed!!!
+2020-05-23/10:25:04		Deleting Good Data Folder!!!
+2020-05-23/10:25:04		Good_Data folder deleted!!!
+2020-05-23/10:25:04		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/10:25:04		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/10:25:04		Validation Operation completed!!
+2020-05-23/10:25:04		Extracting csv file from table
+2020-05-23/10:25:04		Start of Prediction
+2020-05-23/10:25:04		Entered the get_data method of the Data_Getter class
+2020-05-23/10:25:04		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'D:\\CardiovascularDisease_DetectionPrediction_FileFromDB\\InputFile.csv' does not exist: b'D:\\CardiovascularDisease_DetectionPrediction_FileFromDB\\InputFile.csv'
+2020-05-23/10:25:04		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-05-23/10:25:04		Error occured while running the prediction!! Error:: 
+2020-05-23/10:25:22		Start of Validation on files for prediction!!
+2020-05-23/10:25:22		Raw Data Validation Complete!!
+2020-05-23/10:25:22		Starting Data Transforamtion!!
+2020-05-23/10:25:22		DataTransformation Completed!!!
+2020-05-23/10:25:22		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/10:25:32		Table creation Completed!!
+2020-05-23/10:25:32		Insertion of Data into Table started!!!!
+2020-05-23/10:25:32		Insertion in Table completed!!!
+2020-05-23/10:25:32		Deleting Good Data Folder!!!
+2020-05-23/10:25:32		Good_Data folder deleted!!!
+2020-05-23/10:25:32		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/10:25:32		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/10:25:32		Validation Operation completed!!
+2020-05-23/10:25:32		Extracting csv file from table
+2020-05-23/10:25:32		Start of Prediction
+2020-05-23/10:25:32		Entered the get_data method of the Data_Getter class
+2020-05-23/10:25:32		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'D:\\CardiovascularDisease_DetectionPrediction_FileFromDB\\InputFile.csv' does not exist: b'D:\\CardiovascularDisease_DetectionPrediction_FileFromDB\\InputFile.csv'
+2020-05-23/10:25:32		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-05-23/10:25:32		Error occured while running the prediction!! Error:: 
+2020-05-23/10:26:31		Start of Validation on files for prediction!!
+2020-05-23/10:26:31		Raw Data Validation Complete!!
+2020-05-23/10:26:31		Starting Data Transforamtion!!
+2020-05-23/10:26:31		DataTransformation Completed!!!
+2020-05-23/10:26:31		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/10:26:34		Table creation Completed!!
+2020-05-23/10:26:34		Insertion of Data into Table started!!!!
+2020-05-23/10:26:34		Insertion in Table completed!!!
+2020-05-23/10:26:34		Deleting Good Data Folder!!!
+2020-05-23/10:26:34		Good_Data folder deleted!!!
+2020-05-23/10:26:34		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/10:26:34		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/10:26:34		Validation Operation completed!!
+2020-05-23/10:26:34		Extracting csv file from table
+2020-05-23/10:26:34		Start of Prediction
+2020-05-23/10:26:34		Entered the get_data method of the Data_Getter class
+2020-05-23/10:26:34		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'D:\\CardiovascularDisease_DetectionPrediction_FileFromDB\\InputFile.csv' does not exist: b'D:\\CardiovascularDisease_DetectionPrediction_FileFromDB\\InputFile.csv'
+2020-05-23/10:26:34		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-05-23/10:26:34		Error occured while running the prediction!! Error:: 
+2020-05-23/10:27:37		Start of Prediction
+2020-05-23/10:28:49		Entered the get_data method of the Data_Getter class
+2020-05-23/10:28:49		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] File b'D:\\CardiovascularDisease_DetectionPrediction_FileFromDB\\InputFile.csv' does not exist: b'D:\\CardiovascularDisease_DetectionPrediction_FileFromDB\\InputFile.csv'
+2020-05-23/10:28:49		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2020-05-23/10:28:49		Error occured while running the prediction!! Error:: 
+2020-05-23/10:26:48		Start of Validation on files for prediction!!
+2020-05-23/10:26:49		Raw Data Validation Complete!!
+2020-05-23/10:26:49		Starting Data Transforamtion!!
+2020-05-23/10:26:49		DataTransformation Completed!!!
+2020-05-23/10:26:49		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/10:26:50		Table creation Completed!!
+2020-05-23/10:26:50		Insertion of Data into Table started!!!!
+2020-05-23/10:26:51		Insertion in Table completed!!!
+2020-05-23/10:26:51		Deleting Good Data Folder!!!
+2020-05-23/10:26:51		Good_Data folder deleted!!!
+2020-05-23/10:26:51		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/10:26:51		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/10:26:51		Validation Operation completed!!
+2020-05-23/10:26:51		Extracting csv file from table
+2020-05-23/10:35:40		Start of Validation on files for prediction!!
+2020-05-23/10:35:41		Raw Data Validation Complete!!
+2020-05-23/10:35:41		Starting Data Transforamtion!!
+2020-05-23/10:35:41		DataTransformation Completed!!!
+2020-05-23/10:35:41		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/10:35:42		Table creation Completed!!
+2020-05-23/10:35:42		Insertion of Data into Table started!!!!
+2020-05-23/10:35:42		Insertion in Table completed!!!
+2020-05-23/10:35:42		Deleting Good Data Folder!!!
+2020-05-23/10:35:42		Good_Data folder deleted!!!
+2020-05-23/10:35:42		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/10:35:42		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/10:35:42		Validation Operation completed!!
+2020-05-23/10:35:42		Extracting csv file from table
+2020-05-23/10:35:42		Start of Prediction
+2020-05-23/10:36:10		Entered the get_data method of the Data_Getter class
+2020-05-23/10:36:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/10:37:15		Error occured while running the prediction!! Error:: __init__() missing 1 required positional argument: 'rootProjPath'
+2020-05-23/10:40:10		Start of Validation on files for prediction!!
+2020-05-23/10:40:10		Raw Data Validation Complete!!
+2020-05-23/10:40:10		Starting Data Transforamtion!!
+2020-05-23/10:40:10		DataTransformation Completed!!!
+2020-05-23/10:40:10		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/10:40:14		Table creation Completed!!
+2020-05-23/10:40:14		Insertion of Data into Table started!!!!
+2020-05-23/10:40:15		Insertion in Table completed!!!
+2020-05-23/10:40:15		Deleting Good Data Folder!!!
+2020-05-23/10:40:15		Good_Data folder deleted!!!
+2020-05-23/10:40:15		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/10:40:15		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/10:40:15		Validation Operation completed!!
+2020-05-23/10:40:15		Extracting csv file from table
+2020-05-23/10:40:15		Start of Prediction
+2020-05-23/10:40:15		Entered the get_data method of the Data_Getter class
+2020-05-23/10:40:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/10:40:40		Entered the is_null_present method of the Preprocessor class
+2020-05-23/10:40:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/10:41:13		Error occured while running the prediction!! Error:: __init__() missing 1 required positional argument: 'rootProjPath'
+2020-05-23/11:17:32		Start of Prediction
+2020-05-23/11:17:32		Entered the get_data method of the Data_Getter class
+2020-05-23/11:17:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/11:17:33		Entered the is_null_present method of the Preprocessor class
+2020-05-23/11:17:33		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/11:17:33		Entered the load_model method of the File_Operation class
+2020-05-23/11:17:33		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/11:26:55		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/11:26:55		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/11:26:57		Entered the load_model method of the File_Operation class
+2020-05-23/11:26:57		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/11:27:20		End of Prediction
+2020-05-23/11:15:12		Start of Validation on files for prediction!!
+2020-05-23/11:16:56		Raw Data Validation Complete!!
+2020-05-23/11:16:56		Starting Data Transforamtion!!
+2020-05-23/11:16:56		DataTransformation Completed!!!
+2020-05-23/11:16:56		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/11:16:58		Table creation Completed!!
+2020-05-23/11:16:58		Insertion of Data into Table started!!!!
+2020-05-23/11:17:32		Insertion in Table completed!!!
+2020-05-23/11:17:32		Deleting Good Data Folder!!!
+2020-05-23/11:17:32		Good_Data folder deleted!!!
+2020-05-23/11:17:32		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/11:17:32		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/11:17:32		Validation Operation completed!!
+2020-05-23/11:17:32		Extracting csv file from table
+2020-05-23/12:09:41		Start of Validation on files for prediction!!
+2020-05-23/12:09:42		Raw Data Validation Complete!!
+2020-05-23/12:09:42		Starting Data Transforamtion!!
+2020-05-23/12:09:42		DataTransformation Completed!!!
+2020-05-23/12:09:42		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/12:09:45		Table creation Completed!!
+2020-05-23/12:09:45		Insertion of Data into Table started!!!!
+2020-05-23/12:12:16		Insertion in Table completed!!!
+2020-05-23/12:12:16		Deleting Good Data Folder!!!
+2020-05-23/12:12:16		Good_Data folder deleted!!!
+2020-05-23/12:12:16		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/12:12:16		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/12:12:16		Validation Operation completed!!
+2020-05-23/12:12:16		Extracting csv file from table
+2020-05-23/12:12:16		Start of Prediction
+2020-05-23/12:12:16		Entered the get_data method of the Data_Getter class
+2020-05-23/12:12:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/12:12:17		Entered the is_null_present method of the Preprocessor class
+2020-05-23/12:12:17		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/12:12:17		Entered the load_model method of the File_Operation class
+2020-05-23/12:12:17		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/12:12:17		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/12:12:17		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/12:12:17		Entered the load_model method of the File_Operation class
+2020-05-23/12:12:18		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/12:12:18		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/12:12:18		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/12:12:18		Entered the load_model method of the File_Operation class
+2020-05-23/12:12:18		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/12:12:18		End of Prediction
+2020-05-23/12:58:44		Start of Validation on files for prediction!!
+2020-05-23/12:58:44		Raw Data Validation Complete!!
+2020-05-23/12:58:44		Starting Data Transforamtion!!
+2020-05-23/12:58:45		DataTransformation Completed!!!
+2020-05-23/12:58:45		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/12:58:48		Table creation Completed!!
+2020-05-23/12:58:48		Insertion of Data into Table started!!!!
+2020-05-23/12:58:49		Insertion in Table completed!!!
+2020-05-23/12:58:49		Deleting Good Data Folder!!!
+2020-05-23/12:58:49		Good_Data folder deleted!!!
+2020-05-23/12:58:49		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/12:58:49		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/12:58:49		Validation Operation completed!!
+2020-05-23/12:58:49		Extracting csv file from table
+2020-05-23/12:58:57		Start of Prediction
+2020-05-23/12:58:57		Entered the get_data method of the Data_Getter class
+2020-05-23/12:58:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/12:58:58		Entered the is_null_present method of the Preprocessor class
+2020-05-23/12:58:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/12:58:58		Entered the load_model method of the File_Operation class
+2020-05-23/12:58:58		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/12:58:59		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/12:58:59		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/12:58:59		Entered the load_model method of the File_Operation class
+2020-05-23/12:58:59		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/12:58:59		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/12:58:59		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/12:58:59		Entered the load_model method of the File_Operation class
+2020-05-23/12:58:59		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/12:59:00		End of Prediction
+2020-05-23/13:01:36		Start of Validation on files for prediction!!
+2020-05-23/13:33:56		Start of Validation on files for prediction!!
+2020-05-23/13:35:21		Start of Validation on files for prediction!!
+2020-05-23/13:37:32		Start of Validation on files for prediction!!
+2020-05-23/13:47:09		Start of Validation on files for prediction!!
+2020-05-23/13:53:13		Start of Validation on files for prediction!!
+2020-05-23/13:55:12		Start of Validation on files for prediction!!
+2020-05-23/14:24:44		Start of Validation on files for prediction!!
+2020-05-23/14:27:33		Raw Data Validation Complete!!
+2020-05-23/14:27:34		Starting Data Transforamtion!!
+2020-05-23/14:27:36		DataTransformation Completed!!!
+2020-05-23/14:27:37		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/14:27:40		Table creation Completed!!
+2020-05-23/14:27:41		Insertion of Data into Table started!!!!
+2020-05-23/14:27:48		Insertion in Table completed!!!
+2020-05-23/14:27:49		Deleting Good Data Folder!!!
+2020-05-23/14:27:52		Good_Data folder deleted!!!
+2020-05-23/14:27:52		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/14:27:54		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/14:27:55		Validation Operation completed!!
+2020-05-23/14:27:56		Extracting csv file from table
+2020-05-23/14:29:00		Start of Prediction
+2020-05-23/14:29:00		Entered the get_data method of the Data_Getter class
+2020-05-23/14:29:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/14:29:01		Entered the is_null_present method of the Preprocessor class
+2020-05-23/14:29:01		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/14:29:01		Entered the load_model method of the File_Operation class
+2020-05-23/14:29:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/14:29:01		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/14:29:01		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/14:29:01		Entered the load_model method of the File_Operation class
+2020-05-23/14:29:01		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/14:29:02		End of Prediction
+2020-05-23/14:39:07		Start of Validation on files for prediction!!
+2020-05-23/14:39:07		Raw Data Validation Complete!!
+2020-05-23/14:39:07		Starting Data Transforamtion!!
+2020-05-23/14:39:08		DataTransformation Completed!!!
+2020-05-23/14:39:08		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/14:39:09		Table creation Completed!!
+2020-05-23/14:39:09		Insertion of Data into Table started!!!!
+2020-05-23/14:39:10		Insertion in Table completed!!!
+2020-05-23/14:39:10		Deleting Good Data Folder!!!
+2020-05-23/14:39:10		Good_Data folder deleted!!!
+2020-05-23/14:39:10		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/14:39:10		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/14:39:10		Validation Operation completed!!
+2020-05-23/14:39:10		Extracting csv file from table
+2020-05-23/14:39:10		Start of Prediction
+2020-05-23/14:39:10		Entered the get_data method of the Data_Getter class
+2020-05-23/14:39:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/14:39:10		Entered the is_null_present method of the Preprocessor class
+2020-05-23/14:39:10		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/14:39:10		Entered the load_model method of the File_Operation class
+2020-05-23/14:39:10		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/14:39:10		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/14:39:10		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/14:39:10		Entered the load_model method of the File_Operation class
+2020-05-23/14:39:10		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/14:39:10		Error occured while running the prediction!! Error:: 'prediction' object has no attribute 'path'
+2020-05-23/14:43:29		Start of Validation on files for prediction!!
+2020-05-23/14:43:29		Raw Data Validation Complete!!
+2020-05-23/14:43:29		Starting Data Transforamtion!!
+2020-05-23/14:43:29		DataTransformation Completed!!!
+2020-05-23/14:43:29		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/14:43:31		Table creation Completed!!
+2020-05-23/14:43:31		Insertion of Data into Table started!!!!
+2020-05-23/14:43:31		Insertion in Table completed!!!
+2020-05-23/14:43:31		Deleting Good Data Folder!!!
+2020-05-23/14:43:31		Good_Data folder deleted!!!
+2020-05-23/14:43:31		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/14:43:31		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/14:43:31		Validation Operation completed!!
+2020-05-23/14:43:31		Extracting csv file from table
+2020-05-23/14:43:31		Start of Prediction
+2020-05-23/14:43:31		Entered the get_data method of the Data_Getter class
+2020-05-23/14:43:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/14:43:32		Entered the is_null_present method of the Preprocessor class
+2020-05-23/14:43:32		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/14:43:32		Entered the load_model method of the File_Operation class
+2020-05-23/14:43:32		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/14:43:32		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/14:43:32		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/14:43:32		Entered the load_model method of the File_Operation class
+2020-05-23/14:43:32		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/14:43:32		End of Prediction
+2020-05-23/15:08:36		Start of Validation on files for prediction!!
+2020-05-23/15:13:42		Start of Prediction
+2020-05-23/15:13:42		Entered the get_data method of the Data_Getter class
+2020-05-23/15:13:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/15:13:43		Entered the is_null_present method of the Preprocessor class
+2020-05-23/15:13:43		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/15:13:43		Entered the load_model method of the File_Operation class
+2020-05-23/15:13:43		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:13:43		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/15:13:43		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/15:13:43		Entered the load_model method of the File_Operation class
+2020-05-23/15:13:43		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:13:43		Error occured while running the prediction!! Error:: [Errno 2] No such file or directory: 'Prediction_Batch_files\\Predictions.csv'
+2020-05-23/15:13:39		Start of Validation on files for prediction!!
+2020-05-23/15:13:40		Raw Data Validation Complete!!
+2020-05-23/15:13:40		Starting Data Transforamtion!!
+2020-05-23/15:13:40		DataTransformation Completed!!!
+2020-05-23/15:13:40		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/15:13:42		Table creation Completed!!
+2020-05-23/15:13:42		Insertion of Data into Table started!!!!
+2020-05-23/15:13:42		Insertion in Table completed!!!
+2020-05-23/15:13:42		Deleting Good Data Folder!!!
+2020-05-23/15:13:42		Good_Data folder deleted!!!
+2020-05-23/15:13:42		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/15:13:42		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/15:13:42		Validation Operation completed!!
+2020-05-23/15:13:42		Extracting csv file from table
+2020-05-23/15:16:27		Start of Validation on files for prediction!!
+2020-05-23/15:16:27		Raw Data Validation Complete!!
+2020-05-23/15:16:27		Starting Data Transforamtion!!
+2020-05-23/15:16:27		DataTransformation Completed!!!
+2020-05-23/15:16:27		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/15:16:30		Table creation Completed!!
+2020-05-23/15:16:30		Insertion of Data into Table started!!!!
+2020-05-23/15:16:30		Insertion in Table completed!!!
+2020-05-23/15:16:30		Deleting Good Data Folder!!!
+2020-05-23/15:16:30		Good_Data folder deleted!!!
+2020-05-23/15:16:30		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/15:16:30		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/15:16:30		Validation Operation completed!!
+2020-05-23/15:16:30		Extracting csv file from table
+2020-05-23/15:16:30		Start of Prediction
+2020-05-23/15:16:30		Entered the get_data method of the Data_Getter class
+2020-05-23/15:16:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/15:16:31		Entered the is_null_present method of the Preprocessor class
+2020-05-23/15:16:31		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/15:16:31		Entered the load_model method of the File_Operation class
+2020-05-23/15:16:31		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:16:31		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/15:16:31		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/15:16:31		Entered the load_model method of the File_Operation class
+2020-05-23/15:16:31		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:16:31		End of Prediction
+2020-05-23/15:27:48		Start of Validation on files for prediction!!
+2020-05-23/15:27:48		Raw Data Validation Complete!!
+2020-05-23/15:27:48		Starting Data Transforamtion!!
+2020-05-23/15:27:49		DataTransformation Completed!!!
+2020-05-23/15:27:49		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/15:27:50		Table creation Completed!!
+2020-05-23/15:27:50		Insertion of Data into Table started!!!!
+2020-05-23/15:27:51		Insertion in Table completed!!!
+2020-05-23/15:27:51		Deleting Good Data Folder!!!
+2020-05-23/15:27:51		Good_Data folder deleted!!!
+2020-05-23/15:27:51		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/15:27:51		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/15:27:51		Validation Operation completed!!
+2020-05-23/15:27:51		Extracting csv file from table
+2020-05-23/15:27:51		Start of Prediction
+2020-05-23/15:27:51		Entered the get_data method of the Data_Getter class
+2020-05-23/15:27:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/15:27:51		Entered the is_null_present method of the Preprocessor class
+2020-05-23/15:27:51		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/15:27:51		Entered the load_model method of the File_Operation class
+2020-05-23/15:27:51		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:27:51		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/15:27:51		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/15:27:51		Entered the load_model method of the File_Operation class
+2020-05-23/15:27:51		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:44:25		End of Prediction
+2020-05-23/15:46:26		Start of Validation on files for prediction!!
+2020-05-23/15:46:27		Raw Data Validation Complete!!
+2020-05-23/15:46:27		Starting Data Transforamtion!!
+2020-05-23/15:46:27		DataTransformation Completed!!!
+2020-05-23/15:46:27		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/15:46:29		Table creation Completed!!
+2020-05-23/15:46:29		Insertion of Data into Table started!!!!
+2020-05-23/15:46:29		Insertion in Table completed!!!
+2020-05-23/15:46:29		Deleting Good Data Folder!!!
+2020-05-23/15:46:29		Good_Data folder deleted!!!
+2020-05-23/15:46:29		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/15:46:29		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/15:46:29		Validation Operation completed!!
+2020-05-23/15:46:29		Extracting csv file from table
+2020-05-23/15:46:29		Start of Prediction
+2020-05-23/15:46:29		Entered the get_data method of the Data_Getter class
+2020-05-23/15:46:29		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/15:46:30		Entered the is_null_present method of the Preprocessor class
+2020-05-23/15:46:30		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/15:46:30		Entered the load_model method of the File_Operation class
+2020-05-23/15:46:30		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:46:30		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/15:46:30		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/15:46:30		Entered the load_model method of the File_Operation class
+2020-05-23/15:46:30		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:46:30		End of Prediction
+2020-05-23/15:47:57		Start of Prediction
+2020-05-23/15:47:57		Entered the get_data method of the Data_Getter class
+2020-05-23/15:47:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/15:47:57		Entered the is_null_present method of the Preprocessor class
+2020-05-23/15:47:57		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/15:47:57		Entered the load_model method of the File_Operation class
+2020-05-23/15:47:57		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:47:57		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/15:47:57		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/15:47:57		Entered the load_model method of the File_Operation class
+2020-05-23/15:47:57		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/15:51:20		End of Prediction
+2020-05-23/15:47:53		Start of Validation on files for prediction!!
+2020-05-23/15:47:53		Raw Data Validation Complete!!
+2020-05-23/15:47:53		Starting Data Transforamtion!!
+2020-05-23/15:47:54		DataTransformation Completed!!!
+2020-05-23/15:47:54		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/15:47:57		Table creation Completed!!
+2020-05-23/15:47:57		Insertion of Data into Table started!!!!
+2020-05-23/15:47:57		Insertion in Table completed!!!
+2020-05-23/15:47:57		Deleting Good Data Folder!!!
+2020-05-23/15:47:57		Good_Data folder deleted!!!
+2020-05-23/15:47:57		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/15:47:57		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/15:47:57		Validation Operation completed!!
+2020-05-23/15:47:57		Extracting csv file from table
+2020-05-23/16:31:06		Start of Validation on files for prediction!!
+2020-05-23/16:31:08		Raw Data Validation Complete!!
+2020-05-23/16:31:08		Starting Data Transforamtion!!
+2020-05-23/16:31:10		DataTransformation Completed!!!
+2020-05-23/16:31:10		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/16:31:11		Table creation Completed!!
+2020-05-23/16:31:11		Insertion of Data into Table started!!!!
+2020-05-23/16:31:25		Insertion in Table completed!!!
+2020-05-23/16:31:25		Deleting Good Data Folder!!!
+2020-05-23/16:31:25		Good_Data folder deleted!!!
+2020-05-23/16:31:25		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/16:31:25		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/16:31:25		Validation Operation completed!!
+2020-05-23/16:31:25		Extracting csv file from table
+2020-05-23/16:31:25		Start of Prediction
+2020-05-23/16:31:25		Entered the get_data method of the Data_Getter class
+2020-05-23/16:31:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/16:31:25		Entered the is_null_present method of the Preprocessor class
+2020-05-23/16:31:25		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/16:31:25		Entered the load_model method of the File_Operation class
+2020-05-23/16:31:25		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/16:31:25		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/16:31:25		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/16:31:25		Entered the load_model method of the File_Operation class
+2020-05-23/16:31:25		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/16:35:58		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/16:35:58		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/16:35:58		Entered the load_model method of the File_Operation class
+2020-05-23/16:35:58		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/16:35:58		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/16:35:58		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/16:35:58		Entered the load_model method of the File_Operation class
+2020-05-23/16:35:58		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/16:35:58		End of Prediction
+2020-05-23/21:26:27		Start of Validation on files for prediction!!
+2020-05-23/21:26:27		Raw Data Validation Complete!!
+2020-05-23/21:26:27		Starting Data Transforamtion!!
+2020-05-23/21:26:28		DataTransformation Completed!!!
+2020-05-23/21:26:28		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/21:26:30		Table creation Completed!!
+2020-05-23/21:26:30		Insertion of Data into Table started!!!!
+2020-05-23/21:26:44		Insertion in Table completed!!!
+2020-05-23/21:26:44		Deleting Good Data Folder!!!
+2020-05-23/21:26:44		Good_Data folder deleted!!!
+2020-05-23/21:26:44		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/21:26:44		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/21:26:44		Validation Operation completed!!
+2020-05-23/21:26:44		Extracting csv file from table
+2020-05-23/21:26:44		Start of Prediction
+2020-05-23/21:26:44		Entered the get_data method of the Data_Getter class
+2020-05-23/21:26:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/21:26:44		Entered the is_null_present method of the Preprocessor class
+2020-05-23/21:26:44		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/21:26:44		Entered the load_model method of the File_Operation class
+2020-05-23/21:26:44		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/21:26:44		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/21:26:44		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/21:26:44		Entered the load_model method of the File_Operation class
+2020-05-23/21:26:44		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/21:26:44		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/21:26:44		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/21:26:44		Entered the load_model method of the File_Operation class
+2020-05-23/21:26:44		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/21:26:45		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/21:26:45		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/21:26:45		Entered the load_model method of the File_Operation class
+2020-05-23/21:26:45		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/21:26:45		Error occured while running the prediction!! Error:: Shape of passed values is (102, 1), indices imply (102, 2)
+2020-05-23/21:28:35		Start of Validation on files for prediction!!
+2020-05-23/21:28:35		Raw Data Validation Complete!!
+2020-05-23/21:28:35		Starting Data Transforamtion!!
+2020-05-23/21:28:36		DataTransformation Completed!!!
+2020-05-23/21:28:36		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-23/21:28:37		Table creation Completed!!
+2020-05-23/21:28:37		Insertion of Data into Table started!!!!
+2020-05-23/21:28:50		Insertion in Table completed!!!
+2020-05-23/21:28:50		Deleting Good Data Folder!!!
+2020-05-23/21:28:50		Good_Data folder deleted!!!
+2020-05-23/21:28:50		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-23/21:28:50		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-23/21:28:50		Validation Operation completed!!
+2020-05-23/21:28:50		Extracting csv file from table
+2020-05-23/21:28:50		Start of Prediction
+2020-05-23/21:28:50		Entered the get_data method of the Data_Getter class
+2020-05-23/21:28:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-23/21:28:51		Entered the is_null_present method of the Preprocessor class
+2020-05-23/21:28:51		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-23/21:28:51		Entered the load_model method of the File_Operation class
+2020-05-23/21:28:51		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/21:28:51		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/21:28:51		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/21:28:51		Entered the load_model method of the File_Operation class
+2020-05-23/21:28:51		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/21:28:51		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/21:28:51		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/21:28:51		Entered the load_model method of the File_Operation class
+2020-05-23/21:28:51		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/21:28:51		Entered the find_correct_model_file method of the File_Operation class
+2020-05-23/21:28:51		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-23/21:28:51		Entered the load_model method of the File_Operation class
+2020-05-23/21:28:51		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-23/21:28:51		End of Prediction

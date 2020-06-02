@@ -1,0 +1,19 @@
+{	"SampleFileName": "cardio_0211198_0102062112002.csv",
+	"LengthOfDateStampInFile": 7,
+	"LengthOfTimeStampInFile": 13,
+	"NumberofColumns" : 12,
+	"ColName": {
+				"id" : "Integer",
+				"age" : "Integer",
+				"gender" : "Integer",
+				"height" : "Integer",
+				"weight" : "Integer",
+				"ap_hi" : "Integer",
+				"ap_lo" : "Integer",
+				"cholesterol": "Integer",
+				"gluc": "Integer",
+				"smoke" : "Integer",
+				"alco" : "Integer",
+				"active" : "Integer"
+	}
+}

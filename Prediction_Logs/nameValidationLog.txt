@@ -1,0 +1,40 @@
+2020-05-23/09:43:46		Error occured while validating FileName [Errno 13] Permission denied: 'D:\\CardiovascularDisease_Detection\\Prediction_Batch_files\\ARCHIVE'
+2020-05-23/09:46:30		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/09:54:15		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/09:56:01		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:00:49		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:05:33		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:21:06		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:25:01		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:25:22		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:26:31		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:26:48		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:35:41		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:40:10		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:46:48		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:53:08		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/11:05:13		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/11:15:13		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/12:09:41		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/12:58:44		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/13:55:12		Error occured while validating FileName [Errno 2] No such file or directory: 'D:\\CardiovascularDisease_Detection\\Prediction_Batch_files\\cardio_0211198_0102062112011.csv'
+2020-05-23/14:00:19		Error occured while validating FileName [Errno 2] No such file or directory: 'D:\\CardiovascularDisease_Detection\\Prediction_Batch_files\\cardio_0211198_0102062112011.csv'
+2020-05-23/14:07:40		Error occured while validating FileName [Errno 2] No such file or directory: 'D:\\CardiovascularDisease_Detection\\Prediction_Batch_files\\cardio_0211198_0102062112011.csv'
+2020-05-23/14:20:37		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/14:26:02		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/14:39:07		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/14:43:29		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/15:13:39		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/15:16:27		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/15:27:48		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/15:46:26		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/15:47:53		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/16:31:06		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112015.csv
+2020-05-23/16:31:06		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112017.csv
+2020-05-23/16:31:06		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/21:26:27		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112015.csv
+2020-05-23/21:26:27		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112017.csv
+2020-05-23/21:26:27		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv
+2020-05-23/21:28:35		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112015.csv
+2020-05-23/21:28:35		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112017.csv
+2020-05-23/21:28:35		Valid File name!! File moved to GoodRaw Folder :: cardio_0211198_0102062112018.csv

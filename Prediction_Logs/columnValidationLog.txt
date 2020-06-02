@@ -1,0 +1,73 @@
+2020-05-23/09:46:32		Column Length Validation Started!!
+2020-05-23/09:46:32		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/09:46:32		Column Length Validation Completed!!
+2020-05-23/09:54:16		Column Length Validation Started!!
+2020-05-23/09:54:16		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/09:54:16		Column Length Validation Completed!!
+2020-05-23/09:56:01		Column Length Validation Started!!
+2020-05-23/09:56:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/09:56:01		Column Length Validation Completed!!
+2020-05-23/10:00:49		Column Length Validation Started!!
+2020-05-23/10:00:49		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:00:49		Column Length Validation Completed!!
+2020-05-23/10:05:33		Column Length Validation Started!!
+2020-05-23/10:05:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:05:33		Column Length Validation Completed!!
+2020-05-23/10:21:06		Column Length Validation Started!!
+2020-05-23/10:21:07		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:21:07		Column Length Validation Completed!!
+2020-05-23/10:25:01		Column Length Validation Started!!
+2020-05-23/10:25:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:25:01		Column Length Validation Completed!!
+2020-05-23/10:25:22		Column Length Validation Started!!
+2020-05-23/10:25:22		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:25:22		Column Length Validation Completed!!
+2020-05-23/10:26:31		Column Length Validation Started!!
+2020-05-23/10:26:31		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:26:31		Column Length Validation Completed!!
+2020-05-23/10:26:48		Column Length Validation Started!!
+2020-05-23/10:26:49		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:26:49		Column Length Validation Completed!!
+2020-05-23/10:35:41		Column Length Validation Started!!
+2020-05-23/10:35:41		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:35:41		Column Length Validation Completed!!
+2020-05-23/10:40:10		Column Length Validation Started!!
+2020-05-23/10:40:10		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:40:10		Column Length Validation Completed!!
+2020-05-23/10:46:48		Column Length Validation Started!!
+2020-05-23/10:46:48		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:46:48		Column Length Validation Completed!!
+2020-05-23/10:53:08		Column Length Validation Started!!
+2020-05-23/10:53:08		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/10:53:08		Column Length Validation Completed!!
+2020-05-23/11:05:13		Column Length Validation Started!!
+2020-05-23/11:05:13		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cardio_0211198_0102062112016.csv
+2020-05-23/11:05:13		Column Length Validation Completed!!
+2020-05-23/11:15:13		Column Length Validation Started!!
+2020-05-23/11:15:46		Column Length Validation Completed!!
+2020-05-23/12:09:41		Column Length Validation Started!!
+2020-05-23/12:09:41		Column Length Validation Completed!!
+2020-05-23/12:58:44		Column Length Validation Started!!
+2020-05-23/12:58:44		Column Length Validation Completed!!
+2020-05-23/14:27:14		Column Length Validation Started!!
+2020-05-23/14:27:24		Column Length Validation Completed!!
+2020-05-23/14:39:07		Column Length Validation Started!!
+2020-05-23/14:39:07		Column Length Validation Completed!!
+2020-05-23/14:43:29		Column Length Validation Started!!
+2020-05-23/14:43:29		Column Length Validation Completed!!
+2020-05-23/15:13:39		Column Length Validation Started!!
+2020-05-23/15:13:39		Column Length Validation Completed!!
+2020-05-23/15:16:27		Column Length Validation Started!!
+2020-05-23/15:16:27		Column Length Validation Completed!!
+2020-05-23/15:27:48		Column Length Validation Started!!
+2020-05-23/15:27:48		Column Length Validation Completed!!
+2020-05-23/15:46:26		Column Length Validation Started!!
+2020-05-23/15:46:27		Column Length Validation Completed!!
+2020-05-23/15:47:53		Column Length Validation Started!!
+2020-05-23/15:47:53		Column Length Validation Completed!!
+2020-05-23/16:31:06		Column Length Validation Started!!
+2020-05-23/16:31:06		Column Length Validation Completed!!
+2020-05-23/21:26:27		Column Length Validation Started!!
+2020-05-23/21:26:27		Column Length Validation Completed!!
+2020-05-23/21:28:35		Column Length Validation Started!!
+2020-05-23/21:28:35		Column Length Validation Completed!!

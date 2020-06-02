@@ -1,0 +1,19 @@
+2020-05-19/01:06:03		Start of Training
+2020-05-19/01:06:03		Entered the get_data method of the Data_Getter class
+2020-05-19/01:06:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-19/01:06:04		Entered the separate_label_feature method of the Preprocessor class
+2020-05-19/01:06:04		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2020-05-19/01:06:04		Entered the is_null_present method of the Preprocessor class
+2020-05-19/01:06:04		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-19/01:06:05		Entered the elbow_plot method of the KMeansClustering class
+2020-05-19/01:14:50		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2020-05-19/01:14:50		Entered the create_clusters method of the KMeansClustering class
+2020-05-19/01:15:06		Entered the save_model method of the File_Operation class
+2020-05-19/01:15:06		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2020-05-19/01:15:06		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2020-05-19/07:03:50		Entered the get_best_model method of the Model_Finder class
+2020-05-19/07:03:50		Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+2020-05-19/12:23:01		KNN best params: {'algorithm': 'kd_tree', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1}. Exited the KNN method of the Model_Finder class
+2020-05-19/12:51:45		Exception occured in get_best_model method of the Model_Finder class. Exception message:  bad input shape (17275, 2)
+2020-05-19/12:51:45		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2020-05-19/12:51:45		Unsuccessful End of Training
